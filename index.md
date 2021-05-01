@@ -1,4 +1,6 @@
-## Graham Wetzler
+---
+title: Graham Wetzler
+---
 
 - [twitter.com/grahamwetzler](https://twitter.com/grahamwetzler)
 - [instagram.com/grahamwetzler](https://www.instagram.com/grahamwetzler/)
